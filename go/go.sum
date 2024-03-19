@@ -1,0 +1,6 @@
+github.com/akamensky/argparse v1.4.0 h1:YGzvsTqCvbEZhL8zZu2AiA5nq805NZh75JNj4ajn1xc=
+github.com/akamensky/argparse v1.4.0/go.mod h1:S5kwC7IuDcEr5VeXtGPRVZ5o/FdhcMlQz4IZQuw64xA=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/mikeunge/go v0.0.0-20240319071240-af2515f2bac6 h1:3Wl7WR0sfMssVBufWgpCvS6kCAYiZBBOpZZgTHAtcZg=
+github.com/mikeunge/go v0.0.0-20240319071240-af2515f2bac6/go.mod h1:+YHEx9s5OWSlhnCgqOdw1ozxqsdIjsg0Iwpli9ul6ac=
